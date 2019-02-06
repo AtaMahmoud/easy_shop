@@ -65,7 +65,7 @@ mixin ConnectedProductsModel on Model {
 }
 
 mixin UserModel on ConnectedProductsModel {
-  final String apiKey = 'AIzaSyBpu9_3pQX2ZMZxaxyN4Vms0txV3wkGDj8';
+  final String apiKey = 'Your API Key';
   Timer _authTimer;
   User get user {
     return _authenticatedUser;

@@ -1,4 +1,4 @@
-# demos
+# Easy Shop
 
 A new Flutter project.
 
